@@ -1,0 +1,5 @@
+To run this file following there steps:
+
+1. First open the (app) Project file in cmd.
+2. Then in cmd type: ng serve -o --poll=2000
+3. Then go to the link which is like (https://localhost:1000)
